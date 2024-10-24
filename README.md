@@ -33,4 +33,4 @@ const { parameter } = route.params;
 eas build -p android --profile preview
 ```
 ## И досутпен для скачивания по ссылке
-https://expo.dev/accounts/appurupai/projects/ReactTest/builds/bdd5ab4b-3541-46b7-9109-01cf07ff3188
+https://expo.dev/accounts/appurupai/projects/ReactTest/builds/4f9d2ba1-dc5c-40f4-a627-351197fd1629
