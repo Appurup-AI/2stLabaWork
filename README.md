@@ -1,4 +1,4 @@
-# 1stLabaWork
+# 2stLabaWork
 ## Приложение
 Приложение, созданное на React Native Expo, использующее библиотеку react-navigation, реализующее две функци: переход между страницами и передача параметров.
 Для осуществления навигации используется библиотека react-navigation и ее компоненты NavigationContainer, createNativeStackNavigator, Stack.Navigator и Stack.Screen
